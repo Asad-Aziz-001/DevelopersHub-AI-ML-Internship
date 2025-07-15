@@ -4,7 +4,7 @@
 
 📘 Tasks: Dataset Exploration, Stock Price Prediction, and Heart Disease Classification
 
-# *🔷 Task 1: Exploring and Visualizing the Iris Dataset*
+#  *🔷 Task 1: Exploring and Visualizing the Iris Dataset*
 
 🎯 Objective:
 Understand the structure, patterns, and distribution of data using visualization.
