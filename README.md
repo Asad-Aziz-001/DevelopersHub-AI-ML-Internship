@@ -122,7 +122,7 @@ Logistic Regression: .coef_
 
 Built interpretable ML models for medical classification. Identified key risk indicators such as chest pain type, ST depression, and max heart rate.
 
-#*🏠 Notebook: Task 6: House Price Prediction*
+# *🏠 Notebook: Task 6: House Price Prediction*
 
 ✅ Core Objective
 
